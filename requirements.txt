@@ -1,2 +1,6 @@
 -e .
-pytest
+pytest~=6.2.1
+
+cdkworkshop~=0.0.1
+boto3~=1.16.52
+setuptools~=49.2.1
